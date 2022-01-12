@@ -1,0 +1,43 @@
+body {
+  background-color: #fd8ad5;
+  font-family: "Roboto Mono", monospace;
+}
+thead th {
+  width: 2%;
+  border: ridge #8afdb2;
+  padding: 10px;
+}
+.tble {
+  background-color: white;
+  width: 1000px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  color: #fd8ad5;
+  font-weight: bold;
+}
+td,
+tr {
+  border: ridge #8afdb2;
+  padding: 10px;
+  width: 1%;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #8afdb2 !important;
+}
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+}
+.pics {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  color: red;
+  width: 800px;
+  height: 450px !important;
+}

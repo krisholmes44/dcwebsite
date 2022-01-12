@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  margin-top: 100px;
+  margin-left: 50px;
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+  text-align: left;
+  font-family: "Roboto Mono", monospace;
+}
+#description {
+  font-size: 20px;
+  max-width: 50%;
+  margin-top: 20px;
+}
+.part2 {
+  height: 500px;
+  background-color: white;
+  color: #fd8ad5;
+  margin-top: 50px;
+}
+body {
+  background-color: #fd8ad5;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Mono", monospace;
+}
+#t {
+  display: inline-block;
+}
+.t2 {
+  padding: 150px;
+  padding-right: 20px;
+}
+.part3 {
+  width: 700px;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #8afdb2;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  padding: 50px;
+}
+.factSect {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+  background-color: #8afdb2 !important;
+}
